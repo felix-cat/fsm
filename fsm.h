@@ -2,7 +2,7 @@
 /*
 The code in this file has "The Code Project Open License (CPOL) 1.02" license (read below)
 
-The author of this code has the user name: "Cpp For All" in the CodeProject site
+The author of this code has the user name: "0xG00DC0FFEE" in the CodeProject site
 
 Preamble
 
